@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Test Post"
-date:   2019-05-04 22:40:00 +0100
-categories: meta
----
-
-This is a test post.
